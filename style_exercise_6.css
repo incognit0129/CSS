@@ -1,0 +1,12 @@
+button{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+        opacity: .5;
+}
+
+button:hover{
+    opacity: 1;
+}
+
